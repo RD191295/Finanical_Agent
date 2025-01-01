@@ -6,10 +6,8 @@ from phi.tools.duckduckgo import DuckDuckGo
 from dotenv import find_dotenv,load_dotenv
 import os
 
-
 # loading enviornment variable
 _ = load_dotenv()
-
 
 # create agent First Agent is Sentiment Analysis Agent
 
